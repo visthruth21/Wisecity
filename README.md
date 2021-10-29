@@ -1,5 +1,4 @@
-# WISECITY
-Welcome to Wisecity! I built this application along with 2 of my team-mates for the google solution challenge 2021.
+# WISECITY (SDP mini project- Full stack) 
 
 We are tackling the problem of responsable behaviour in a smart city. Everyday while we commute to work/while hanging around in the city , we come across many typical problems like dirty streets due to incorrect garbage disposal, potholes which are left open and street lights that are on during the day and many more.
 
