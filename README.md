@@ -15,8 +15,8 @@ The typical problems like dirty streets due to incorrect garbage disposal, stree
 
 
 #
-Team members :
-      R19CS363 - Vaishnavi S Patil \n
+Team members :</br>
+      R19CS363 - Vaishnavi S Patil </br>
       R19CS375 - Visthruth Sai G
       R19CS379 - Yasha D S
       R19CS384 - Yukthi D S
