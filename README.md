@@ -1,22 +1,9 @@
-# WISECITY (SDP mini project- Full stack) 
+# WISECITY 
 
 Live responsive website:(https://visthruth21.github.io/Wisecity/)
 
 #
-Team members :</br>
-      R19CS363 - Vaishnavi S Patil </br>
-      R19CS375 - Visthruth Sai G </br>
-      R19CS379 - Yasha D S</br>
-      R19CS384 - Yukthi D S</br>
 
-We made a landing page for our mobile app which is completely responsive and made with html ,css, javascript and bootstrap .
-</br>
-Key features :</br>
-* Animated scrolling
-* One pager design
-* Image gallery
-* Off-canvas mobile menu
-</br>
 We are tackling the problem of responsable behaviour in a smart city. Everyday while we commute to work/while hanging around in the city , we come across many typical problems like dirty streets due to incorrect garbage disposal, potholes which are left open and street lights that are on during the day and many more.
 
 
